@@ -2,7 +2,7 @@
 Welcome to my personal website! This website serves as a showcase of my projects and skills as a full stack developer.
 
 ## Live Site
-[My Resume](https://giov3ss.github.io/my-resume/)
+[My Resume](https://giovanifonseca.github.io/my-resume/)
 
 ## **Table of Contents**
 1. [Features](#features)
